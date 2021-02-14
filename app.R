@@ -22,9 +22,7 @@ library(maptools)
 library(ggthemes)
 library(rgeos)
 library(ggmap)
-library(sp)
-library(stringr)
-library(plyr)
+library(usmap)
 #data cleaning section 
 
 #clean out all flaws in dataset and prepare it to be used for analysis
